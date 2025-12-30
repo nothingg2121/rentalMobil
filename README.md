@@ -17,6 +17,7 @@ To access admin page, add url /admin. Example http://localhost/rental_eria/admin
 | Admin     |  admin            | admin    |
 | User      |  yusuf@gmail.com  | yusuf    |
 
+login admin di bagian paling bawah home
 ## Sistem Requirement
 - Database MySQL
 - XAMPP / PHP 5.6
