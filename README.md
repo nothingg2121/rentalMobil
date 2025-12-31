@@ -1,4 +1,6 @@
 # Rental-Mobil
+Link Lapora  : https://drive.google.com/file/d/1OjG0Sr-RKnUHlOQ8nARq5HlqsiMiOaJo/view?usp=sharing
+Link Hosting : rentalmobilhm.rf.gd
 Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
 To access admin page, add url /admin. Example http://localhost/rental_eria/admin
